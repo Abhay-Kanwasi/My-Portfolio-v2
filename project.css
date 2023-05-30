@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home {
+    background-image: url('Project_background.jpg');
+    height: 100%;
+    width: 100%;
+}
